@@ -11,7 +11,7 @@
 
 ```bash
 # Instalar/atualizar as dependências do projeto
-$ npm i
+$ npm install
 
 # Iniciar o projeto
 $ npm start
